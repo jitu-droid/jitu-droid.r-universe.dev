@@ -1,1 +1,1 @@
-# -jitu-droid.r-universe.dev
+# jitu-droid.r-universe.dev
